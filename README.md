@@ -19,7 +19,7 @@
 * Microsoft SQL Server Management Studio
 * Zephyr Squad (Jira plugin)
 * Git, Maven, Jenkins
-* Postman, Swaggert, Fiddler
+* Postman, Swagger, Fiddler
 * Jira, Confluence
 * Team Foundation Server
 * Figma
